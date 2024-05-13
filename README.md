@@ -3,5 +3,4 @@
 
 ##Hola a todos, bienvenidos a mi repositorio git para P1 Full Stack + DevOps - Don Bosco Expectación maxima ;)
 
-![Equipo sevilla]
-(.main/Recursos/logo%20devos_sevilla.png)
+![Equipo sevilla](https://github.com/jmatisam/Welcome-Git/blob/main/Recursos/logo%20devos_sevilla.png))
